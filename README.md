@@ -1,4 +1,4 @@
 # machine-learning-projects
 A collection of personal ML/AI projects.
 
-Created using the OpenAI gym framework, pyTorch, and other tools.
+Created using pyTorch, the OpenAI gym framework, models from HuggingFace, and other tools.
